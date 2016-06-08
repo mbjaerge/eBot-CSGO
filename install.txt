@@ -1,3 +1,4 @@
+apt-get update
 apt-get install gcc make libxml2-dev autoconf ca-certificates unzip nodejs curl libcurl4-openssl-dev pkg-config 
 
 mkdir /home/install
